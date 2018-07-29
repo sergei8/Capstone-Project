@@ -34,7 +34,7 @@ This expression is normalized depth of crater.
 On the other hand expression (_1_) may be written as:
 
 ### $$R\to F_{1,2,3} +E_t,\hspace{3em}(2)$$
-
+<img src="https://latex.codecogs.com/gif.latex?&space;R\to&space;F_{1,2,3}&space;&plus;E_t,\hspace{3em}(2)" title="\LARGE R\to F_{1,2,3} +E_t,\hspace{3em}(2)" />
 where: $F_{1,2,3}$ - deformations of 3 phases of impact, ${E_t}$- wind erosion (because
 Mars has not any significant kind of erosion)
 
