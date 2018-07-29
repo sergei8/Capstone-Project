@@ -27,21 +27,21 @@ As noticed in [3], 92% of meteors in the Solar System are rocks, so we may take
 value B as constant,    
 
 <!-- ### $$R=\dfrac{D}{L},\hspace{5em}(1)$$ -->      
-<div style="text-align:center" ><img  style="text-align:center" src="https://latex.codecogs.com/gif.latex?&space;R=\dfrac{D}{L},\hspace{5em}(1)"/></div>
+<div style="text-align:center" ><img  src="https://latex.codecogs.com/gif.latex?&space;R=\dfrac{D}{L},\hspace{5em}(1)"/></div>
 
-where ${D}$ - crater depth, ${L}$ - crater diameter
+where _D_ - crater depth, _L_ - crater diameter
 This expression is normalized depth of crater.
 On the other hand expression (_1_) may be written as:
 
 <!-- ### $$R\to F_{1,2,3} +E_t,\hspace{3em}(2)$$ -->
 <div style="text-align:center" ><img src="https://latex.codecogs.com/gif.latex?&space;R\to&space;F_{1,2,3}&space;&plus;E_t,\hspace{3em}(2)"/></div>
 
-where: $F_{1,2,3}$ - deformations of 3 phases of impact, ${E_t}$- wind erosion (because
-Mars has not any significant kind of erosion)
+where: <img src="https://latex.codecogs.com/gif.latex?F_{1,2,3}" style="vertical-align: middle"/> - deformations of 3 phases of impact, <img src="https://latex.codecogs.com/gif.latex?${E_t}$" style="vertical-align: middle"/> - wind erosion (because
+Mars does not have any significant kind of erosion)
 
 Wind erosion [2] inversely proportional to surface density, i.e crater depth
 will decrease more faster for sand then for rocks. In this wayerosion only
-increase effect of deformation and may be left out. So ${(2)}$ will look as: $R\to F_{1,2,3}$ for not too big craters.
+increase effect of deformation and may be left out. So _(2)_ will look as: <img src="https://latex.codecogs.com/gif.latex?$R\to&space;F_{1,2,3}$" style="vertical-align: middle"/> for not too big craters.
 
 On the 1-st stage (contact and penetration) diameter≈size of meteor (L)
 but after 3-nd stage it decrease up to 85% of the original size[1].
@@ -82,11 +82,9 @@ Database”. 2011.
 [2] [Wikipedia. Aeolian processes.] (url:https://en.wikipedia.org/wiki/
 Aeolian_processes)
 
-[3] [Wikipedia. Impact crater](url:https : / / en. wikipedia. org / wiki /
-Impact_crater)
+[3] [Wikipedia. Impact crater](url:https://en.wikipedia.org/wiki/Impact_crater)
 
-[4] [Wikipedia. Impact depth.](url: https : / / en. wikipedia. org / wiki /
-Impact_depth).
+[4] [Wikipedia. Impact depth.](url:https://en.wikipedia.org/wiki/Impact_depth).
 
 
 
