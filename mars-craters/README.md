@@ -1,12 +1,11 @@
 # MARS SURFACE DENSITY
 
-## July 27, 2016
+### _July 27, 2016_
 
-```
-Abstract
+### Abstract
 I’m interesting in density of surface of Mars which I hope to achieve from
 dataset collected in theMars Crater Codebook
-```
+
 ## 1. Mars surface study
 
 The formation of meteor(impact) crater consists from 3 phases/stages [3]:
@@ -17,24 +16,26 @@ The formation of meteor(impact) crater consists from 3 phases/stages [3]:
 
 On all of above stages deformation of the surface take place,but only of the
 1-st stage - due to impact. Exactly on this stage deformationof surface described
-byNewton’s approximation for the impact depth[4]: D≈LAB, where
+by __Newton’s approximation for the impact depth__[4]: <img style="vertical-align: middle" src="https://latex.codecogs.com/gif.latex?&space;D&space;=&space;L\dfrac{A}{B}" />, where
 D,L,A,B are crater depth, meteor size, Mars and meteor density respectively.
 In this way, depth of craters depend from surface density and, as mentioned in
-[4], the lower the density the lower the depth. More over, [4]claim that depth
-to diameter ratio is a constant value is about 1/3 for not too large meteors (¡
+[4], the lower the density the lower the depth. More over, [4] claim that depth
+to diameter ratio is a constant value is about 1/3 for not too large meteors (¡.e
 3-4 km). For giant meteors this ratio significantly less.
+
 As noticed in [3], 92% of meteors in the Solar System are rocks, so we may take
 value B as constant,    
 
-### $$R=\dfrac{D}{L},\hspace{5em}(1)$$      
+<!-- ### $$R=\dfrac{D}{L},\hspace{5em}(1)$$ -->      
+<div style="text-align:center" ><img  style="text-align:center" src="https://latex.codecogs.com/gif.latex?&space;R=\dfrac{D}{L},\hspace{5em}(1)"/></div>
 
 where ${D}$ - crater depth, ${L}$ - crater diameter
-
 This expression is normalized depth of crater.
 On the other hand expression (_1_) may be written as:
 
-### $$R\to F_{1,2,3} +E_t,\hspace{3em}(2)$$
-<img src="https://latex.codecogs.com/gif.latex?&space;R\to&space;F_{1,2,3}&space;&plus;E_t,\hspace{3em}(2)" title="\LARGE R\to F_{1,2,3} +E_t,\hspace{3em}(2)" />
+<!-- ### $$R\to F_{1,2,3} +E_t,\hspace{3em}(2)$$ -->
+<div style="text-align:center" ><img src="https://latex.codecogs.com/gif.latex?&space;R\to&space;F_{1,2,3}&space;&plus;E_t,\hspace{3em}(2)"/></div>
+
 where: $F_{1,2,3}$ - deformations of 3 phases of impact, ${E_t}$- wind erosion (because
 Mars has not any significant kind of erosion)
 
