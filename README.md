@@ -82,12 +82,12 @@ Unique Identifier: CRATER.ID
 and the Volcanic History of Mars from a New Global Martian Crater
 Database”. 2011.
 
-[2] [Wikipedia. Aeolian processes.](url:https://en.wikipedia.org/wiki/
+[2] [Wikipedia. Aeolian processes.](https://en.wikipedia.org/wiki/
 Aeolian_processes)
 
-[3] [Wikipedia. Impact crater](url:https://en.wikipedia.org/wiki/Impact_crater)
+[3] [Wikipedia. Impact crater](https://en.wikipedia.org/wiki/Impact_crater)
 
-[4] [Wikipedia. Impact depth.](url:https://en.wikipedia.org/wiki/Impact_depth).
+[4] [Wikipedia. Impact depth.](https://en.wikipedia.org/wiki/Impact_depth).
 
 
 
